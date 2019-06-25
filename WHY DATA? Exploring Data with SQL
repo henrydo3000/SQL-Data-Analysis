@@ -1,0 +1,6 @@
+SELECT *
+/*The SELECT statement is used to select data from a database.
+The data returned is stored in a result table, called the result-set.*/
+
+FROM page_visits;
+/*The FROM clause can be simple, and it can also be quite complex. In all cases, though, the important point about the FROM clause is that it produces a tabular structure*/
